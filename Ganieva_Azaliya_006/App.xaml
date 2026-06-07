@@ -1,0 +1,11 @@
+﻿<Application x:Class="Ganieva_Azaliya_006.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Ganieva_Azaliya_006"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Calibri"/>
+        </Style>
+    </Application.Resources>
+</Application>
